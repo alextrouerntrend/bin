@@ -47,7 +47,7 @@ with open(ou, "w") as f:
 <summary><b>Visualization</b></summary>
 
 <details>
-<summary><b>hisat_parser.R</b> - Parse statistical summaries from [HISAT2](https://daehwankimlab.github.io/hisat2/) and visualize distribution of mapping rates across libraries. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Requires: reshape2, ggplot2</b></summary>
+<summary><b>hisat_parser.R</b> - Parse statistical summaries from (HISAT2)[https://daehwankimlab.github.io/hisat2/] and visualize distribution of mapping rates across libraries. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Requires: reshape2, ggplot2</b></summary>
 
 ```R
 # Plant Computational Genomics Lab
